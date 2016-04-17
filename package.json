@@ -9,6 +9,7 @@
   "author": "RChee",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.1.16"
+    "mongodb": "^2.1.16",
+    "socket.io": "^1.4.5"
   }
 }
