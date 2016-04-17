@@ -1,0 +1,14 @@
+{
+  "name": "to-b-im-server",
+  "version": "1.0.0",
+  "description": "a to B IM server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RChee",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.16"
+  }
+}
